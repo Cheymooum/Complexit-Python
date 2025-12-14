@@ -92,7 +92,7 @@ def ligne(A, indice):
     return M
             
 # main
-if __name__ == '___main__'
+if __name__ == '__main__':
     m1 = [[1,2],[1,2]]
     m2 = [[3,4],[4,5]]
     m3 = [[1,2],[3,4],[5,6]]
